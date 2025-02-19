@@ -1,0 +1,4 @@
+.DS_Store
+faces/
+.ipynb_checkpoints/
+trained_classifier.xml
